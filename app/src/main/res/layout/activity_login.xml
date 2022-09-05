@@ -1,0 +1,96 @@
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#C2ADAD"
+    android:orientation="vertical">
+
+
+    <EditText
+        android:id="@+id/etRegAcc"
+        android:layout_width="242dp"
+        android:layout_height="52dp"
+        android:layout_marginTop="276dp"
+        android:background="@drawable/input_background"
+        android:ems="10"
+        android:hint="User name"
+        android:inputType="textPersonName"
+        android:paddingLeft="20dp"
+        android:textColorHint="#dddddd"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.183"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/etRegPass"
+        android:layout_width="242dp"
+        android:layout_height="49dp"
+        android:layout_marginTop="12dp"
+        android:background="@drawable/input_background"
+        android:ems="10"
+        android:hint="Password"
+        android:inputType="textPassword"
+        android:paddingLeft="20dp"
+        android:textColorHint="#dddddd"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.142"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/etRegAcc" />
+
+    <Button
+        android:id="@+id/bRegLogin"
+        android:layout_width="257dp"
+        android:layout_height="72dp"
+        android:layout_gravity="start"
+        android:layout_marginTop="80dp"
+        android:background="@drawable/button_background"
+        android:padding="20dp"
+        android:text="Login now                  >"
+        android:textAlignment="textStart"
+        android:textColor="#BE3F51B5"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.103"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/etRegPass" />
+
+    <TextView
+        android:id="@+id/tvRegLink"
+        android:layout_width="106dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="Sign up!"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.16"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/bRegLogin"
+        tools:targetApi="lollipop" />
+
+    <Button
+        android:id="@+id/butt"
+        android:layout_width="411dp"
+        android:layout_height="403dp"
+        android:layout_marginStart="164dp"
+        android:layout_marginLeft="164dp"
+        android:layout_marginBottom="96dp"
+        android:background="@drawable/design_button_background"
+        app:layout_constraintBottom_toTopOf="@+id/etRegPass"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="411dp"
+        android:layout_height="403dp"
+        android:layout_marginEnd="176dp"
+        android:layout_marginRight="176dp"
+        android:layout_marginBottom="128dp"
+        android:background="@drawable/design_button_background"
+        app:layout_constraintBottom_toTopOf="@+id/etRegAcc"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

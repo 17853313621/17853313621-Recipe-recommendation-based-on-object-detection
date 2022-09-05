@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/aclonica</item>
+        <item>@font/akronim</item>
+        <item>@font/architects_daughter</item>
+        <item>@font/cairo_black</item>
+        <item>@font/caveat_bold</item>
+        <item>@font/fredoka_one</item>
+        <item>@font/lobster</item>
+        <item>@font/pacifico</item>
+        <item>@font/permanent_marker</item>
+        <item>@font/playfair_display_black_italic</item>
+        <item>@font/playfair_display_sc</item>
+        <item>@font/roboto_mono_bold</item>
+        <item>@font/roboto_mono_thin</item>
+    </array>
+</resources>

@@ -1,0 +1,466 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dropdown_background.xml.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\drawable\\dropdown_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_category.xml.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\drawable\\ic_category.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_transparent.xml.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\drawable\\transparent.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_bg.jpeg.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\drawable-v21\\bg.jpeg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_recipe_list.xml.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\layout\\activity_recipe_list.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_arrow.xml.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\drawable\\ic_arrow.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rajmah.jpg.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\drawable\\rajmah.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_addrecipe_input_background.xml.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\drawable\\addrecipe_input_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_signup.png.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\drawable-v21\\signup.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shahipaneer.jpg.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\drawable\\shahipaneer.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_splash.jpg.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\drawable-v21\\splash.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_bg1.jpeg.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\drawable-v21\\bg1.jpeg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradient_info.xml.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\drawable\\gradient_info.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home_recipeitem.xml.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\layout\\fragment_home_recipeitem.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_jeeraaloo.jpg.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\drawable\\jeeraaloo.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sarsonkasaag.jpg.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\drawable\\sarsonkasaag.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_home.jpg.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\drawable-v21\\home.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_category_item.xml.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\layout\\fragment_category_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_text_background.xml.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\drawable\\text_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_manchurian.jpg.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\drawable\\manchurian.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_information.xml.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\layout\\fragment_information.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\font_cairo_black.xml.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\font\\cairo_black.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_dropdown.png.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\drawable-v21\\dropdown.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_add_recipe.xml.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\menu\\menu_add_recipe.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_recipesideasmain.png.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\drawable\\recipesideasmain.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home.xml.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash_screen.xml.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_search_result.xml.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\layout\\activity_search_result.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_samosa.jpg.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\drawable\\samosa.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chickenbiryani.jpg.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\drawable\\chickenbiryani.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\font_roboto_mono_thin.xml.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\font\\roboto_mono_thin.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main_drawer.xml.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chicken.jpg.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\drawable\\chicken.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_edit_text_custom_for_ingredients.xml.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\layout\\edit_text_custom_for_ingredients.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\font_playfair_display_black_italic.xml.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\font\\playfair_display_black_italic.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_recipe_list_item.xml.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\layout\\activity_recipe_list_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background.png.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\drawable\\background.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_main.xml.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_search_result_item_background.xml.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\drawable\\search_result_item_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_list_item_background.xml.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\drawable\\list_item_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\font_akronim.xml.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\font\\akronim.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_login.png.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\drawable-v21\\login.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_butterchicken.png.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\drawable\\butterchicken.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_camera.xml.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_like_list.xml.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\drawable\\ic_like_list.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\font_aclonica.xml.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\font\\aclonica.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_paneerbhurji.jpg.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\drawable\\paneerbhurji.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_add_howto.xml.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\layout\\fragment_add_howto.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_category.xml.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\layout\\fragment_category.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_add_ingredient.xml.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\layout\\fragment_add_ingredient.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_greenbutton.xml.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\drawable\\greenbutton.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_recipebg.jpg.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\drawable-v21\\recipebg.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_loginbg.jpg.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\drawable-v21\\loginbg.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_temp_search_result.xml.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\layout\\activity_temp_search_result.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_list_selector.xml.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\drawable\\list_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_graybackground.xml.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\drawable\\graybackground.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_khamandhokla.jpg.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\drawable\\khamandhokla.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_add_ingredientitem.xml.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\layout\\fragment_add_ingredientitem.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chickentikkamasala.jpg.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\drawable\\chickentikkamasala.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\font_permanent_marker.xml.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\font\\permanent_marker.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\font_roboto_mono_bold.xml.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\font\\roboto_mono_bold.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_recipe.xml.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\layout\\activity_recipe.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_main.xml.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_masaladosa.jpg.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\drawable\\masaladosa.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_logout.xml.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\drawable\\ic_logout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_arraow.png.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\drawable\\arraow.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pancake.jpg.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\drawable\\pancake.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_like_background.xml.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\drawable\\like_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_registration.xml.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\layout\\activity_registration.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_login.xml.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\drawable\\ic_login.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_unchekedlike.xml.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\drawable\\ic_unchekedlike.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_chekedlike.xml.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\drawable\\ic_chekedlike.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_input_background.xml.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\drawable\\input_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\font_fredoka_one.xml.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\font\\fredoka_one.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_aloogobhi.jpg.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\drawable\\aloogobhi.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_activity_login.xml.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\layout-v21\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\font_caveat_bold.xml.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\font\\caveat_bold.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_info.xml.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\drawable\\ic_info.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kadhaichicken.jpg.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\drawable\\kadhaichicken.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_main.xml.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_search.xml.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_searchresult_custom.xml.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\layout\\searchresult_custom.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradient.xml.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\drawable\\gradient.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_border.xml.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\drawable\\border.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_checkbox.xml.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\drawable\\checkbox.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_background.xml.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\drawable\\button_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\font_architects_daughter.xml.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\font\\architects_daughter.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_malaikofta.jpg.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\drawable\\malaikofta.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_addrecipe.xml.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\drawable\\ic_addrecipe.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chanamasala.jpg.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\drawable\\chanamasala.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_editborder.xml.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\drawable\\editborder.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_design_button_background.xml.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\drawable\\design_button_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\font_pacifico.xml.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\font\\pacifico.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\font_playfair_display_sc.xml.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\font\\playfair_display_sc.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_deepbluebutton.xml.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\drawable\\deepbluebutton.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\font_lobster.xml.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\font\\lobster.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_recipe.xml.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\layout\\activity_add_recipe.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_add_recipe.xml.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\layout\\fragment_add_recipe.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_search.xml.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chickenfriedrice.jpg.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\drawable\\chickenfriedrice.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidStudioProject\\atHand-main\\atHand-main\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    }
+]
